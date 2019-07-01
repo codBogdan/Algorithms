@@ -14,13 +14,13 @@ public class LegalDrivingAge {
 
 
         if (a < 16){
-            System.out.println("You are not old enough to legally drive.");
+            System.out.println("\n" + "You are not old enough to legally drive.");
         }else {
             if(a < 60 && a > 16){
-                System.out.println("You are old enough to legally drive.");
+                System.out.println("\n" + "You are old enough to legally drive.");
 
             }else{
-                System.out.println("STOP! Drive safely!");
+                System.out.println("\n" + "STOP! Drive safely!");
             }
         }
 
