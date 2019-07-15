@@ -4,7 +4,7 @@ public class cozalozawoza {
 
 
     //The problem
-    
+
 //    Write a program called CozaLozaWoza which prints the
 //    numbers 1 to 110, 11 numbers per line.
 //    The program shall print "Coza" in place of the numbers
