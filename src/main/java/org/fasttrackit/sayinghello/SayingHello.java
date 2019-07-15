@@ -11,6 +11,6 @@ public class SayingHello {
         String a = input.next();
 
         System.out.println();
-        System.out.println("Hello " + a + " !" );
+        System.out.println("Hello, " + a + " , nice to meet you!");
     }
 }
